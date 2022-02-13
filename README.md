@@ -1,0 +1,2 @@
+# osuSpainBot
+yes
